@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SNSTestApp</string>
+    <string name="user_name_item">ユーザー名 : </string>
+    <string name="point_item">ポイント : </string>
+    <string name="newly_registered_user_information">ユーザー情報を新規登録しました.</string>
+    <string name="failed_to_login">ログインに失敗しました.</string>
+    <string name="failed_to_login_for_unknown_error">原因不明のエラーにより、ログインに失敗しました.</string>
+    <string name="please_login">ログインしてください.</string>
+</resources>

@@ -1,0 +1,32 @@
+/.metadata/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle
+!gradle-wrapper.jar
+
+# Build
+/**/out/
+/**/build/
+/**/bin/
+
+# Other
+*.log
+*.swp
+*.bak
